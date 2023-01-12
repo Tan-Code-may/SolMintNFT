@@ -1,11 +1,10 @@
 {
   "name": "Your Collection #4",
-  "symbol": "YC",
   "description": "Remember to replace this description",
-  "seller_fee_basis_points": 1000,
-  "image": "4.png",
-  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "dc5a0fac249210c035a6dccd4097fe8514a02d91",
   "edition": 4,
+  "date": 1673560275112,
   "attributes": [
     {
       "trait_type": "Background",
@@ -21,7 +20,7 @@
     },
     {
       "trait_type": "Iris",
-      "value": "Small"
+      "value": "Large"
     },
     {
       "trait_type": "Shine",
@@ -33,22 +32,8 @@
     },
     {
       "trait_type": "Top lid",
-      "value": "Middle"
+      "value": "Low"
     }
   ],
-  "properties": {
-    "files": [
-      {
-        "uri": "4.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
-        "share": 100
-      }
-    ]
-  }
+  "compiler": "HashLips Art Engine"
 }

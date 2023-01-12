@@ -1,11 +1,10 @@
 {
   "name": "Your Collection #3",
-  "symbol": "YC",
   "description": "Remember to replace this description",
-  "seller_fee_basis_points": 1000,
-  "image": "3.png",
-  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "47e9803d06192d35d1598dc866f066ee82a67402",
   "edition": 3,
+  "date": 1673560275007,
   "attributes": [
     {
       "trait_type": "Background",
@@ -17,7 +16,7 @@
     },
     {
       "trait_type": "Eye color",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Iris",
@@ -36,19 +35,5 @@
       "value": "High"
     }
   ],
-  "properties": {
-    "files": [
-      {
-        "uri": "3.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
-        "share": 100
-      }
-    ]
-  }
+  "compiler": "HashLips Art Engine"
 }
